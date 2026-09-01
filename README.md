@@ -1,16 +1,38 @@
-## Hi there 👋
+# Anastasia Grosheva
 
-<!--
-**avgrosheva/avgrosheva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build data-driven digital products at the intersection of product, analytics, and technology.
 
-Here are some ideas to get you started:
+My background is in marketing and market analytics, with a focus on product development, product analytics, and AI-enabled products. I enjoy working across the full product lifecycle — from understanding the problem and defining product logic to analyzing data and building working solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+**Product**
+Product discovery · Product strategy · User research · Metrics & KPI design · A/B testing · Agile / Scrum
+
+**Analytics**
+SQL · Python · Pandas · NumPy · Statistics · Data analysis · Data visualization · A/B testing
+
+**Machine Learning & AI**
+Scikit-learn · CatBoost · Recommender systems · LLM applications · RAG
+
+**Development**
+FastAPI · PostgreSQL · SQLAlchemy · REST APIs · Git · Docker
+
+**Visualization**
+Power BI · Tableau
+
+## Selected Work
+
+**[Kora](https://github.com/avgrosheva/kora-platform)**  
+AI copilot for early-stage due diligence that turns pitch decks and financial documents into structured, evidence-backed analysis.
+
+**[Service Center Platform](https://github.com/avgrosheva/service-center-platform)**  
+Full-stack operational platform for small field-service and repair businesses.
+
+**[Hasky Rider Academy](https://github.com/avgrosheva/hasky-motorcycle-bot)**  
+Telegram-native training product combining structured learning, real-world practice, skill progression, and gamification.
+
+## Contact
+
+**Telegram:** [https://t.me/nastya_grosheva]  
+**Email:** grosheva915@gmail.com
