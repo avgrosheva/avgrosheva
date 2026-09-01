@@ -2,23 +2,23 @@
 
 I build data-driven digital products at the intersection of product, analytics, and technology.
 
-My background is in marketing and market analytics, with a focus on product development, product analytics, and AI-enabled products. I enjoy working across the full product lifecycle — from understanding the problem and defining product logic to analyzing data and building working solutions.
+My background is in marketing and market analytics, with a focus on product development, product analytics, and AI-enabled products. I work across the product lifecycle — from problem discovery and product logic to data analysis and implementation.
 
 ## Skills
 
-**Product**
-Product discovery · Product strategy · User research · Metrics & KPI design · A/B testing · Agile / Scrum
+**Product**  
+Product discovery · Product strategy · User research · Metrics & KPI design · Agile / Scrum
 
-**Analytics**
+**Analytics**  
 SQL · Python · Pandas · NumPy · Statistics · Data analysis · Data visualization · A/B testing
 
-**Machine Learning & AI**
+**Machine Learning & AI**  
 Scikit-learn · CatBoost · Recommender systems · LLM applications · RAG
 
-**Development**
+**Development**  
 FastAPI · PostgreSQL · SQLAlchemy · REST APIs · Git · Docker
 
-**Visualization**
+**Visualization**  
 Power BI · Tableau
 
 ## Selected Work
@@ -34,6 +34,5 @@ Telegram-native training product combining structured learning, real-world pract
 
 ## Contact
 
-**Telegram:** https://t.me/nastya_grosheva
-
-**Email:** grosheva915@gmail.com
+**Telegram:** [@nastya_grosheva](https://t.me/nastya_grosheva)  
+**Email:** [grosheva915@gmail.com](mailto:grosheva915@gmail.com)
